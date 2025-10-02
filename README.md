@@ -27,7 +27,7 @@ Each module is organized with detailed explanations, analogies, and examples to 
 
 ---
 
-### 3️⃣ [Module 3: Cloud Storage & Compute Services – S3, EBS, EC2](./Module-3-Storage-Compute/README.md)  
+### 3️⃣ [Module 3: Cloud Storage & Compute Services – S3, EBS, EC2](./Module-3-StorageAndCompute/README.md)  
 - Amazon S3: Object storage, use cases, analogies  
 - Amazon EBS: Block storage, features, real-world usage  
 - Amazon EC2: Virtual machines, instance types, examples  
@@ -36,7 +36,7 @@ Each module is organized with detailed explanations, analogies, and examples to 
 
 ---
 
-### 4️⃣ [Module 4: Real-World Cloud Use Cases & Interview Questions](./Module-4-UseCases-Interviews/README.md)  
+### 4️⃣ [Module 4: Real-World Cloud Use Cases & Interview Questions](./Module-4-Real-Life-UseCases/README.md)
 - How companies like Netflix, Flipkart, Swiggy, and banks use cloud  
 - Scenario-based examples for scaling, storage, compute, and networking  
 - Frequently asked cloud interview questions 
